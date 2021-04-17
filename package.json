@@ -1,6 +1,6 @@
 {
   "name": "loading-awesomly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Short upbeat loading messages collection",
   "main": "index.js",
   "repository": "git@github.com:lek890/loading-awesomly.git",
