@@ -1,0 +1,10 @@
+{
+  "name": "loading-awesomly",
+  "version": "1.0.0",
+  "description": "Short upbeat loading messages collection",
+  "main": "index.js",
+  "repository": "git@github.com:lek890/loading-awesomly.git",
+  "author": "Lekshmi Chandra",
+  "license": "MIT",
+  "private": false
+}
