@@ -6,5 +6,6 @@
   "repository": "git@github.com:lek890/loading-awesomly.git",
   "author": "Lekshmi Chandra",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "types": "./index.d.ts"
 }
