@@ -1,3 +1,3 @@
-declare module "some-js-lib" {
-  export function hello(world: string): void;
+declare module "loading-awesomly" {
+  export const loadingAwesomly: string;
 }
