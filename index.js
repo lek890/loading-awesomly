@@ -11,6 +11,9 @@ export const messages = [
   "If fish lived on land, where would they live?",
   "What goes up when the rain comes down?",
   "What clothes does a house wear?",
+  "Adding a little confetti",
+  "Prepping the page",
+  "Spicing up the page"
 ];
 
 Array.prototype.getRandomLoadingMsgs = function () {
